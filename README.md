@@ -1,5 +1,5 @@
 # webduino-platform-i18n
 
-The platform for Webduino.
+Resources for i18n of Webduino platform.
 
-The [platform](https://id.webduino.io) includes blockly, device and other services.
+[Webduino platform](https://cloud.webduino.io) includes Webduino Blockly, Webduino Device and other services.
